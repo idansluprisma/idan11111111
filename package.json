@@ -68,7 +68,7 @@
     "react-router-dom": "^6.0.0-beta.3",
     "recharts": "^2.1.4",
     "recorder-js": "^1.0.7",
-    "reflect-metadata": "^0.1.13",
+    "reflect-metadata": "^0.2.2",
     "rxjs": "^7.3.0",
     "socket.io-redis": "^6.1.1",
     "stream-browserify": "^3.0.0",
