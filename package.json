@@ -30,7 +30,7 @@
     "@nestjs/platform-express": "^8.0.6",
     "@nestjs/platform-socket.io": "^8.0.6",
     "@nestjs/serve-static": "^2.2.2",
-    "@nestjs/swagger": "^5.0.9",
+    "@nestjs/swagger": "^11.2.6",
     "@nestjs/throttler": "^2.0.0",
     "@nestjs/websockets": "^8.0.6",
     "@react-pdf/renderer": "^2.0.19",
