@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@ant-design/icons": "^4.6.4",
-    "@nestjs/common": "^8.0.6",
+    "@nestjs/common": "^9.0.0",
     "@nestjs/config": "^1.0.1",
     "@nestjs/core": "^8.0.6",
     "@nestjs/jwt": "^8.0.0",
@@ -37,7 +37,7 @@
     "antd": "^4.16.13",
     "assert": "^2.0.0",
     "aws-sdk": "^2.989.0",
-    "axios": "^0.21.4",
+    "axios": "^1.13.5",
     "axios-progress-bar": "^1.2.0",
     "browserify-zlib": "^0.2.0",
     "buffer": "^6.0.3",
