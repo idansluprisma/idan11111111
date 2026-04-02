@@ -21,7 +21,7 @@
     "node": "14.17.6"
   },
   "dependencies": {
-    "@ant-design/icons": "^4.6.4",
+    "@ant-design/icons": "^5.0.0",
     "@nestjs/common": "^8.0.6",
     "@nestjs/config": "^1.0.1",
     "@nestjs/core": "^8.0.6",
@@ -34,7 +34,7 @@
     "@nestjs/throttler": "^2.0.0",
     "@nestjs/websockets": "^8.0.6",
     "@react-pdf/renderer": "^2.0.19",
-    "antd": "^4.16.13",
+    "antd": "^5.1.5",
     "assert": "^2.0.0",
     "aws-sdk": "^2.989.0",
     "axios": "^0.21.4",
@@ -66,7 +66,7 @@
     "react-responsive": "^9.0.0-beta.4",
     "react-router": "^6.0.0-beta.3",
     "react-router-dom": "^6.0.0-beta.3",
-    "recharts": "^2.1.4",
+    "recharts": "^3.0.0",
     "recorder-js": "^1.0.7",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.3.0",
